@@ -1,0 +1,9 @@
+streamlit
+langchain==0.2.7
+langchain-community
+langchain-huggingface
+pinecone-client==3.2.2
+sentence-transformers
+transformers
+torch
+python-dotenv
